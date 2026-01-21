@@ -26,7 +26,7 @@ The trolley problem is only the beginning.
   * Source materials:
     * [Virtue Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-virtue/)
     * [_After Virtue_ by Alasdair MacIntyre](https://archive.org/details/isbn_0268006040)
-    * [List of Moral Virtues, Wikipedia](https://archive.org/details/adventures-from-the-book-of-virtues-generosity-full-true-1997-vhs-rip-converted)
+    * [List of Moral Virtues, Wikipedia](https://en.wikipedia.org/wiki/Virtue_ethics#Moral_virtues)
     * [Adventures from the Book of Virtues, IMDB](https://www.imdb.com/title/tt0227868/)
       * Some episodes available online, e.g. [Generosity](https://archive.org/details/adventures-from-the-book-of-virtues-generosity-full-true-1997-vhs-rip-converted)
 
